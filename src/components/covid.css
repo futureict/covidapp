@@ -50,7 +50,7 @@ transform: translate(-50%, -50%);
     grid-template-rows: 1fr 1fr 1fr;
     grid-gap: 12px;
     grid-area:span;
-    background-image:url("D:\presentation backgrounds\Radiation-Rays-Patterns-2880x1920.jpg");
+    background-image:url("./back.jpg");
     background-repeat: no-repeat, center, fixed;
     background-size: cover;
     padding-bottom:30px;
